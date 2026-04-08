@@ -1,12 +1,12 @@
-# Olá, eu sou o Fernando Negreiro! 👋
+# Hi, I'm Fernando Negreiro! 👋
 
-### Desenvolvedor focado em soluções inteligentes e análise de dados.
+### Developer focused on intelligent solutions and data analysis.
 
-Sou um entusiasta da tecnologia apaixonado por transformar lógica e dados em ferramentas funcionais. Atualmente, dedico meu tempo ao desenvolvimento de aplicações web e à exploração de insights através da análise de dados, sempre buscando resolver problemas reais com código limpo e eficiente.
+I am a technology enthusiast passionate about transforming logic and data into functional tools. Currently, I dedicate my time to developing web applications and exploring insights through data analysis, always seeking to solve real-world problems with clean and efficient code.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,16 +18,17 @@ Sou um entusiasta da tecnologia apaixonado por transformar lógica e dados em fe
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-* **LuminaBI:** Ferramenta focada em inteligência de negócios e visualização de dados.
-* **SkyMind:** Projeto focado em [descrever brevemente o objetivo do SkyMind].
-* **User Manager App:** Aplicação completa para gerenciamento e controle de usuários.
-* **Jitterbit API Test:** Testes e integrações utilizando APIs para automação de processos.
+* **Dr. Lituânia Spínola Landing Page:** A high-conversion, professional website for a psychologist, featuring optimized navigation, corporate service sections, and a mobile-first design.
+* **LuminaBI:** A business intelligence tool focused on data visualization and strategic insights.
+* **SkyMind:** [Briefly describe the objective of SkyMind here].
+* **User Manager App:** A full-stack application for user management and access control.
+* **Jitterbit API Test:** API testing and integration project for process automation.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=FerNegreiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -36,16 +37,16 @@ Sou um entusiasta da tecnologia apaixonado por transformar lógica e dados em fe
 
 ---
 
-### 🧠 Interesses
-* Resolução de enigmas e desafios de lógica.
-* Arquitetura de software e boas práticas de programação.
-* Data Science e automação.
+### 🧠 Interests
+* Solving logic puzzles and algorithmic challenges.
+* Software architecture and programming best practices.
+* Data Science and automation.
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Let's Connect
 * **LinkedIn:** [Fernando Negreiro](https://www.linkedin.com/in/fernando-negreiro-06a3582a2)
-* **E-mail:** [fernandoivo08@hotmail.com](mailto:fernandoivo08@hotmail.com)
+* **Email:** [fernandoivo08@hotmail.com](mailto:fernandoivo08@hotmail.com)
 
 ---
 
