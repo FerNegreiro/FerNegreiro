@@ -20,7 +20,7 @@ I am a technology enthusiast passionate about transforming logic and data into f
 
 ### 🚀 Featured Projects
 
-* **Dr. Lituânia Spínola Landing Page:** A high-conversion, professional website for a psychologist, featuring optimized navigation, corporate service sections, and a mobile-first design.
+* **Dra. Lituânia Spínola Landing Page:** A high-conversion, professional website for a psychologist, featuring optimized navigation, corporate service sections, and a mobile-first design.
 * **LuminaBI:** A business intelligence tool focused on data visualization and strategic insights.
 * **SkyMind:** [Briefly describe the objective of SkyMind here].
 * **User Manager App:** A full-stack application for user management and access control.
