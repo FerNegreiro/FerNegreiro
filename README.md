@@ -119,6 +119,18 @@ End-to-end Data Engineering project focused on:
 
 ---
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerNegreiro/FerNegreiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerNegreiro/FerNegreiro/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/FerNegreiro/FerNegreiro/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
