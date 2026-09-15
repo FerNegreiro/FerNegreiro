@@ -1,86 +1,229 @@
 # Hi, I'm Fernando Negreiro 👋
 
-### Full Stack Developer & Data Engineer | Python, JavaScript, SQL, GCP & Data Solutions
+### Data Engineer | Python, SQL, GCP, BigQuery, ETL/ELT, Docker & Kubernetes
 
-I'm a technology professional focused on building modern web applications, data-driven systems and intelligent digital solutions. I work with **Python, JavaScript, Node.js, SQL, Google Cloud Platform, BigQuery, ETL/ELT processes and data modeling**, combining software development, cloud, automation, data engineering and business intelligence.
+I'm a technology professional focused on **Data Engineering, Cloud, backend development and automation**.
 
-My focus is to transform ideas, data and business needs into real products, from landing pages and full-stack applications to dashboards, APIs, data pipelines, SaaS platforms and analytical tools. I enjoy solving real-world problems with clean code, organized architecture and scalable solutions that generate value for businesses and users.
+I build data pipelines, APIs, cloud-oriented architectures and analytical solutions using technologies such as **Python, SQL, PostgreSQL, BigQuery, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus and Grafana**.
+
+My background also includes full-stack development, which helps me understand systems end-to-end — from data ingestion and backend services to infrastructure, monitoring and visualization.
+
+My goal is to transform data and business requirements into reliable, scalable and maintainable solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on modern web applications and SaaS platforms
-- 📊 Data Engineer focused on SQL, BigQuery, data pipelines, ETL/ELT and analytics
-- ☁️ Experience and studies with Google Cloud Platform, BigQuery and Cloud Composer
-- 🐍 Skilled in Python for automation, backend development and data processing
-- ⚙️ Interested in APIs, integrations, data workflows and system automation
-- 📈 Passionate about business intelligence, dashboards and data visualization
-- 🧠 Focused on data warehousing, data modeling and scalable architectures
-- 🎯 Building professional digital products that solve real business problems
+- 📊 Data Engineer focused on data pipelines, ETL/ELT, SQL and analytics
+- 🐍 Python for data processing, automation, APIs and backend development
+- 🗄️ Experience with PostgreSQL, BigQuery and data modeling
+- ☁️ Projects and studies involving Google Cloud Platform
+- 🐳 Containerized applications with Docker and Docker Compose
+- ☸️ Kubernetes deployments, health checks, autoscaling and self-healing
+- ⚙️ CI/CD automation with GitHub Actions
+- 🏗️ Infrastructure as Code with Terraform
+- 📈 Monitoring and observability with Prometheus and Grafana
+- 💻 Full-stack development as a complementary skill
+- 🎯 Focused on building practical projects that solve real-world problems
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### Data Engineering
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT%20Development-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge&logo=database&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-4B8BBE?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Backend & Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## ☁️ Data Engineering Skills
+## 🧠 Data Engineering Skills
 
+- Python
+- SQL
+- PostgreSQL
+- Google BigQuery
 - Google Cloud Platform
-- BigQuery
-- Python for data processing and automation
-- SQL for queries, analysis and data manipulation
-- Apache Airflow and Cloud Composer
-- ETL/ELT development
-- Data Warehousing
-- Data Modeling
+- ETL / ELT
 - Data Pipelines
-- APIs and system integrations
-- Dashboards and Business Intelligence
+- Data Processing
+- Data Quality
+- Data Modeling
+- Data Warehousing
+- Apache Airflow
+- APIs and integrations
+- Parquet and analytical data formats
+- Business Intelligence
+- Dashboards and data visualization
+
+---
+
+## ☁️ Cloud & DevOps Skills
+
+- Docker
+- Docker Compose
+- Kubernetes
+- Horizontal Pod Autoscaling
+- Kubernetes Health Checks
+- Kubernetes Secrets
+- Persistent Storage
+- GitHub Actions
+- CI/CD
+- GitHub Container Registry
+- Terraform
+- Infrastructure as Code
+- Prometheus
+- Grafana
+- Monitoring and Observability
 
 ---
 
 ## 📌 Featured Projects
 
-### Barakah Decor
+### ☁️ Cloud Data Platform
 
-Digital project developed for a decoration and gift materials business, focused on visual communication, product presentation and promotional content. The project includes creative materials for gift boxes, metallic bags, ribbons, cards and decorative products, helping the brand communicate better with customers.
+Cloud and DevOps project built to demonstrate a production-oriented backend architecture.
 
-### LuminaBI
+The platform combines:
 
-Business intelligence project focused on data visualization, performance indicators, strategic insights and decision-making through interactive dashboards.
+**FastAPI → PostgreSQL → Docker → GitHub Actions → GHCR → Kubernetes → Prometheus → Grafana**
 
-### Dra. Lituânia Spínola Landing Page
+Key features:
 
-Professional and responsive landing page developed for a psychologist, focused on credibility, clear communication, mobile-first design and service presentation.
+- FastAPI backend
+- PostgreSQL database
+- Docker and Docker Compose
+- Automated tests with Pytest
+- CI/CD with GitHub Actions
+- Docker image publishing to GitHub Container Registry
+- Kubernetes deployment using kind
+- Kubernetes Secrets and PersistentVolume
+- Startup, readiness and liveness probes
+- Self-healing
+- Horizontal Pod Autoscaler from 2 to 5 replicas
+- Metrics Server
+- Prometheus monitoring
+- Grafana observability dashboard
+- Infrastructure as Code with Terraform
 
-### SkyMind
+Repository:
 
-Technology project focused on intelligent digital solutions, productivity, automation and modern web development.
+[Cloud Data Platform](https://github.com/FerNegreiro/cloud-data-platform)
 
-### User Manager App
+---
 
-Full-stack application for user registration, management and access control, integrating frontend, backend and database structure.
+### 📊 E-commerce Data Engineering
 
-### Jitterbit API Test
+End-to-end Data Engineering project focused on building and validating an e-commerce data pipeline.
 
-API testing and integration project focused on process automation, system connectivity and data flow between platforms.
+The project includes:
+
+- Synthetic e-commerce data generation
+- Customers, products, orders, payments and shipping datasets
+- CSV ingestion
+- Parquet processing layer
+- Financial, structural and referential validation
+- Automated data quality tests
+- Python and Pandas
+- PyArrow
+- BigQuery integration
+- Cloud-oriented architecture
+- Automated testing with Pytest
+
+---
+
+### 📈 LuminaBI
+
+Business Intelligence project focused on:
+
+- Data visualization
+- KPIs
+- Performance analysis
+- Strategic business insights
+- Interactive dashboards
+- Data-driven decision making
+
+---
+
+### 💻 User Manager App
+
+Full-stack application for user registration, management and access control, integrating:
+
+- Frontend
+- Backend
+- Database
+- APIs
+- Authentication and application logic
+
+---
+
+### 🔗 Jitterbit API Test
+
+Integration project focused on:
+
+- REST APIs
+- Data exchange
+- System integration
+- Process automation
+- Data flow between platforms
+
+---
+
+## 🏗️ Engineering Focus
+
+```text
+Data Sources
+     ↓
+Data Ingestion
+     ↓
+ETL / ELT
+     ↓
+Data Processing
+     ↓
+Data Quality
+     ↓
+Data Warehouse
+     ↓
+Analytics / BI
+```
+
+Alongside:
+
+```text
+Application
+     ↓
+Docker
+     ↓
+CI/CD
+     ↓
+Kubernetes
+     ↓
+Monitoring
+     ↓
+Prometheus + Grafana
+```
 
 ---
 
@@ -93,30 +236,37 @@ API testing and integration project focused on process automation, system connec
 
 ---
 
-## 🧠 Interests
+## 🎯 Current Focus
 
-- Full Stack Development
+Currently improving my skills and portfolio in:
+
 - Data Engineering
-- Google Cloud Platform
-- BigQuery and SQL
-- ETL/ELT Development
-- Data Warehousing and Data Modeling
-- Business Intelligence
-- Dashboards and Data Visualization
-- APIs and System Integrations
-- Automation and Data Pipelines
-- SaaS Products
-- Software Architecture and Clean Code
+- Cloud Data Platforms
+- Python and SQL
+- BigQuery
+- ETL / ELT
+- Data Pipelines
+- Docker
+- Kubernetes
+- CI/CD
+- Infrastructure as Code
+- Observability
+- Data Architecture
 
 ---
 
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Fernando Negreiro](https://www.linkedin.com/in/fernando-negreiro-06a3582a2)
+- **GitHub:** [FerNegreiro](https://github.com/FerNegreiro)
 - **Email:** [fernandoivo08@hotmail.com](mailto:fernandoivo08@hotmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerNegreiro&theme=tokyonight" />
+
+### Thanks for visiting my profile! 🚀
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FerNegreiro&theme=tokyonight" />
+
 </div>
