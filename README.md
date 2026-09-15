@@ -86,16 +86,24 @@ Production-oriented cloud architecture with:
 
 ### 📊 E-commerce Data Engineering
 
-**Python · Pandas · PyArrow · Parquet · BigQuery · Pytest**
+**Python · Pandas · PyArrow · Parquet · BigQuery · dbt · Power BI · Pytest**
 
 End-to-end Data Engineering project focused on:
 
 - Synthetic data generation
-- ETL processing
+- ETL/ELT processing
 - Data quality validation
 - Parquet analytical layers
 - BigQuery
+- dbt transformations
+- Power BI dashboard
 - Automated testing
+
+<div align="left">
+
+[![View Project](https://img.shields.io/badge/View%20Project-E--commerce%20Data%20Engineering-181717?style=for-the-badge&logo=github)](https://github.com/FerNegreiro/Ecommerce-data-engineering)
+
+</div>
 
 ---
 
