@@ -99,27 +99,13 @@ End-to-end Data Engineering project focused on:
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=FerNegreiro&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FerNegreiro&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=39D353&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%90%8D+GitHub+Contributions)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerNegreiro/FerNegreiro/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerNegreiro/FerNegreiro/output/github-snake.svg">
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/FerNegreiro/FerNegreiro/output/github-snake.svg">
-</picture>
 
 </div>
 
